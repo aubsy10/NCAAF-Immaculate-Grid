@@ -1,0 +1,22 @@
+{
+  "State": {"Type": 0,"List":["Texas", "Alabama","Louisiana","California","Michigan","Ohio","Florida","Georgia","North Carolina"], "Key":0},
+  "Conference":{"Type": 0, "List": ["SEC", "BIG 10", "Big 12", "MAC", "ACC", "AAC", "Sun Belt", "C-USA","MWC"], "Key":1},
+  "National Championships":{"Type": 1, "Count": [1,3,5], "Eras":["Prehistoric","AP", "BCS","CFP"], "Key":2},
+  "Conference Championships":{"Type": 2,"Count": [10,20,30], "Key":3},
+  "Heisman":{"Type": 1, "Count":[1,3,5], "Eras":["AP", "BCS", "CFP"], "Key":4},
+  "CFP":{"Type": 2, "Count":[1], "Key":5},
+  "Wins":{"Type":2, "Count":[600,700,800,900], "Key":6},
+  "Losses":{"Type":2, "Count":[500,600], "Key":7},
+  "Win %":{"Type":2, "Count":[500,600,700], "Key":8},
+  "Bowl Apperences":{"Type":2, "Count":[20,30,40,50], "Key":9},
+  "Bowl %":{"Type":2, "Count":[500,600,700], "Key":10}
+
+
+
+
+  }
+  
+
+
+
+
