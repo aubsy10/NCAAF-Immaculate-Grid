@@ -1,0 +1,26 @@
+.popMenu{
+    background-color: #44B9E1;
+    color: #30404B;
+    width: 40em;
+    margin: auto;
+    margin-top: 2.5em;
+    border: 0.2em solid #345667;
+    border-radius: 1em;
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.finBut{
+    background-color: #30404B;
+    color:#A2DCF0;
+    margin-bottom: 1em;
+    border: 0.2em solid #3C88A4;
+    border-radius: 1em;
+}
+
+.finBut:hover{
+    background-color: #324B59;
+}
+.finBut:active{
+    background-color: #345667;
+}
